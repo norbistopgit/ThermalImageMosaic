@@ -2,6 +2,7 @@
 The Thermal Image Mosaic is a cross-platform graphical application that allows users to visually compare, align, and combine thermal and RGB images on a unified working canvas.
 
 The tool supports drag-and-drop image placement, per-image transparency and color channel adjustments, and high-resolution image export. It is designed for use in research, inspections, or any scenario where visual fusion of infrared and visible spectrum images is needed.
+![canvas_snapshot_20250502_085721](https://github.com/user-attachments/assets/bfb8f644-2c3d-4c55-9804-930ee68eec53)
 
 ---
 
