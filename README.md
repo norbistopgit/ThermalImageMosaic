@@ -60,3 +60,4 @@ The tool supports drag-and-drop image placement, per-image transparency and colo
 	Use the terminal or command prompt:
 	
 	python ThermalImageMosaic.py
+![Snapshot_Linux](https://github.com/user-attachments/assets/f5c12824-69e1-44a3-bfb3-733ae8760bbc)
